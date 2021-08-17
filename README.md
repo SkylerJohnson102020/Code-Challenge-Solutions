@@ -1,10 +1,10 @@
 # Code-Challenge-Solutions
 
-This repository is for my code challenge solutions. 
+This repository is for my code challenge solutions. Refactoring of these solutions has not yet been completed, I will be revisiting in the future.
 
 ### HackerRank 1 Month Preparation Kit
 
-1. Plus Minus - 
+1. Plus Minus - [Solution](solutions/plus_minus.py)
 2. MiniMax Sum - 
 3. Time Conversion - 
 4. Sparse Arrays - 
