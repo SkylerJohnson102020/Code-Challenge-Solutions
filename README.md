@@ -1,6 +1,10 @@
-# Code-Challenge-Solutions
+# Code Challenge Solutions
 
-This repository is for my code challenge solutions. Refactoring of these solutions has not yet been completed, I will be revisiting in the future.
+Welcome to my Code Challenge Solutions repo!
+
+![Conan](https://media.giphy.com/media/3ohzdTEcKJqFZm8swg/giphy.gif?cid=ecf05e479je5dge8b3icy9o5xkgdt8ts53dn414hyydstape&rid=giphy.gif&ct=g)
+
+This repository contains my code challenge solutions. Refactoring of these solutions has not yet been completed, I will be revisiting in the future. The goal is to provide the most efficient way possible.
 
 ### HackerRank 1 Month Preparation Kit
 
