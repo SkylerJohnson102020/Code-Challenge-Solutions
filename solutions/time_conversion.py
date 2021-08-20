@@ -1,8 +1,4 @@
-import math
 import os
-import random
-import re
-import sys
 
 def timeConversion(s):
     string = s.split(':')        

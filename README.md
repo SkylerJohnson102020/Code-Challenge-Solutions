@@ -13,3 +13,9 @@ This repository is for my code challenge solutions. Refactoring of these solutio
 7. Diagonal Difference - [Solution](solutions/diagonal_difference.py)
 8. Counting Sort - [Solution](solutions/counting_sort_1.py)
 9. Pangrams - [Solution](solutions/pangrams.py)
+10. Permuting Two Arrays - 
+11. Subarray Division 1 -
+12. XOR Strings 2 - 
+13. Sales by Match - [Solution](solutions/sales_by_match.py)
+14. Zig Zag Sequence - 
+15. Drawing Book -
