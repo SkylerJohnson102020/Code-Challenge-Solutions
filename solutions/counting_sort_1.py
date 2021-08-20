@@ -1,8 +1,4 @@
-import math
 import os
-import random
-import re
-import sys
 
 def countingSort(arr):
     freq = [0] * len(arr)

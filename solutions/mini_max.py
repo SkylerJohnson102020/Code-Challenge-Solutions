@@ -1,9 +1,3 @@
-import math
-import os
-import random
-import re
-import sys
-
 def miniMaxSum(arr):
     sorted_list = sorted(arr)
     min_sum = sum(sorted_list[0:4])

@@ -1,10 +1,6 @@
-import math
 import os
-import random
-import re
-import sys
-
 import string
+
 def pangrams(s):
     alpha_dict = dict.fromkeys(string.ascii_lowercase, 0)
     clean_string = s.replace(' ', '').lower()

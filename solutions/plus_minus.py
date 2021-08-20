@@ -1,9 +1,3 @@
-import math
-import os
-import random
-import re
-import sys
-
 def plusMinus(arr):
     positive_ratio = 0.0
     negative_ratio = 0.0
