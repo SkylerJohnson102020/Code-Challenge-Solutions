@@ -23,3 +23,4 @@ This repository contains my code challenge solutions. Refactoring of these solut
 13. Sales by Match - [Solution](solutions/sales_by_match.py)
 14. Zig Zag Sequence - 
 15. Drawing Book - [Solution](solutions/drawing_book.py)
+16. Zig Zag Sequence (Debug existing code challenge) - [Solution](solutions/zigzagdebug.py)
